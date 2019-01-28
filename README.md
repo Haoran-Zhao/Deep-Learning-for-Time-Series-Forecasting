@@ -1,4 +1,8 @@
 # Deep-Learning-for-Time-Series-Forecasting
+Regression Tutorial with the Keras Deep Learning Library in Python
+
+https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
+
 Deep Learning for Time Series Forecasting
 
 https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/
