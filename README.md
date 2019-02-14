@@ -27,3 +27,7 @@ https://machinelearningmastery.com/load-explore-time-series-data-python/
 How To Load Machine Learning Data in Python
 
 https://machinelearningmastery.com/load-machine-learning-data-python/
+
+How to Use Metrics for Deep Learning with Keras in Python
+
+https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/
