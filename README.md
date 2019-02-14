@@ -31,3 +31,7 @@ https://machinelearningmastery.com/load-machine-learning-data-python/
 How to Use Metrics for Deep Learning with Keras in Python
 
 https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/
+
+Save and Load Your Keras Deep Learning Models
+
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
