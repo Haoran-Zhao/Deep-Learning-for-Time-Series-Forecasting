@@ -24,9 +24,6 @@ How to Convert a Time Series to a Supervised Learning Problem in Python
 
 https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
 
-How to Convert a Time Series to a Supervised Learning Problem in Python
-
-https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
 
 How to Prepare Univariate Time Series Data for Long Short-Term Memory Networks
 
