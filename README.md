@@ -1,4 +1,12 @@
 # Deep-Learning-for-Time-Series-Forecasting
+Multivariate Time Series using RNN with Keras
+
+https://medium.com/datadriveninvestor/multivariate-time-series-using-rnn-with-keras-7f78f4488679
+
+Multivariate Time Series Forecasting with LSTMs in Keras
+
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+
 How to Handle Missing Timesteps in Sequence Prediction Problems with Python
 
 https://machinelearningmastery.com/handle-missing-timesteps-sequence-prediction-problems-python/
