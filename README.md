@@ -1,4 +1,8 @@
 # Deep-Learning-for-Time-Series-Forecasting
+How to Develop LSTM Models for Time Series Forecasting
+
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+
 Multivariate Time Series using RNN with Keras
 
 https://medium.com/datadriveninvestor/multivariate-time-series-using-rnn-with-keras-7f78f4488679
