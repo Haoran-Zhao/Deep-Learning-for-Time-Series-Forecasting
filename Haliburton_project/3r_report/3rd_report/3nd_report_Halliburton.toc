@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Problem Statement}{3}
+\contentsline {section}{\numberline {2}Literature Review }{5}
+\contentsline {section}{\numberline {3}Data Cleansing }{6}
+\contentsline {subsection}{\numberline {3.1}Missing data ratios}{6}
+\contentsline {subsection}{\numberline {3.2}Removing outliers}{7}
+\contentsline {subsection}{\numberline {3.3}Data imputation}{8}
+\contentsline {subsubsection}{\numberline {3.3.1}Water injection volume}{11}
+\contentsline {subsubsection}{\numberline {3.3.2}Average $\Delta $P tubing}{12}
+\contentsline {subsubsection}{\numberline {3.3.3}Average downhole pressure and temperature}{14}
+\contentsline {subsubsection}{\numberline {3.3.4}Average annulus pressure}{15}
+\contentsline {section}{\numberline {4}Correlation and PCA plots}{17}
+\contentsline {section}{\numberline {5}Results}{19}
+\contentsline {subsection}{\numberline {5.1}Preliminary results}{21}
+\contentsline {subsection}{\numberline {5.2}SVR}{21}
+\contentsline {subsection}{\numberline {5.3}LSTM}{22}
+\contentsline {section}{\numberline {6}Conclusion and Future Work}{24}
+\contentsline {section}{\numberline {7}References}{25}

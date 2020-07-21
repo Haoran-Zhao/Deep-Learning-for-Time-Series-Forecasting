@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Problem Statement}{3}{0}{1}
+\beamer@sectionintoc {2}{Literature Review}{5}{0}{2}
+\beamer@sectionintoc {3}{Data Cleansing}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Missing Data Ratios}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Removing Outliers }{8}{0}{3}
+\beamer@subsectionintoc {3}{3}{Data Imputation}{9}{0}{3}
+\beamer@sectionintoc {4}{Correlation and PCA}{21}{0}{4}
+\beamer@sectionintoc {5}{Results}{22}{0}{5}

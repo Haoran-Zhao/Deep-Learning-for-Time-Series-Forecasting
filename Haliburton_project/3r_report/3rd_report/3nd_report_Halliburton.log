@@ -1,0 +1,759 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.22)  4 JUN 2019 18:36
+entering extended mode
+**./3nd_report_Halliburton.tex
+(3nd_report_Halliburton.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count102
+)
+(header_maryam.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.st
+y"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count103
+\lst@gtempboxa=\box28
+\lst@token=\toks27
+\lst@length=\count104
+\lst@currlwidth=\dimen122
+\lst@column=\count105
+\lst@pos=\count106
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count107
+\lst@lineno=\count108
+\lst@maxwidth=\dimen125
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count109
+\lst@skipnumbers=\count110
+\lst@framebox=\box29
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen126
+\extrarowheight=\dimen127
+\NC@list=\toks28
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\everycr=\toks29
+\minrowclearance=\skip53
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang2.sty
+File: lstlang2.sty 2019/02/27 1.8b listings language file
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang3.sty
+File: lstlang3.sty 2019/02/27 1.8b listings language file
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen128
+\ttl@minus=\dimen129
+\ttl@toksa=\toks30
+\titlewidth=\dimen130
+\titlewidthlast=\dimen131
+\titlewidthfirst=\dimen132
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks31
+\float@box=\box31
+\@float@everytoks=\toks32
+\@floatcapt=\box32
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip56
+\enit@outerparindent=\dimen133
+\enit@toks=\toks33
+\enit@inbox=\box33
+\enit@count@id=\count112
+\enitdp@description=\count113
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen134
+\captionmargin@=\dimen135
+\captionwidth=\dimen136
+\caption@tempdima=\dimen137
+\caption@indent=\dimen138
+\caption@parindent=\dimen139
+\caption@hangindent=\dimen140
+)
+\c@ContinuedFloat=\count114
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count115
+\c@subtable=\count116
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks34
+\SOUL@lasttoken=\toks35
+\SOUL@cmds=\toks36
+\SOUL@buffer=\toks37
+\SOUL@token=\toks38
+\SOUL@spaceskip=\skip57
+\SOUL@ttwidth=\dimen141
+\SOUL@uldp=\dimen142
+\SOUL@ulht=\dimen143
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks39
+\c@algorithm=\count117
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode
+.sty
+Package: algpseudocode 
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.
+sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count118
+\c@ALG@rem=\count119
+\c@ALG@nested=\count120
+\ALG@tlm=\skip58
+\ALG@thistlm=\skip59
+\c@ALG@Lnr=\count121
+\c@ALG@blocknr=\count122
+\c@ALG@storecount=\count123
+\c@ALG@tmpcounter=\count124
+\ALG@tmplength=\skip60
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks40
+\XKV@tempa@toks=\toks41
+)
+\XKV@depth=\count125
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box34
+)
+\tc@llx=\dimen144
+\tc@lly=\dimen145
+\tc@urx=\dimen146
+\tc@ury=\dimen147
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen148
+\adjbox@Height=\dimen149
+\adjbox@Depth=\dimen150
+\adjbox@Totalheight=\dimen151
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count126
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box35
+\sift@deathcycles=\count127
+\@vwid@loff=\dimen152
+\@vwid@roff=\dimen153
+))
+(3nd_report_Halliburton.aux
+
+LaTeX Warning: Label `tb:tp_adp' multiply defined.
+
+
+LaTeX Warning: Label `tb:svr_hyper' multiply defined.
+
+)
+\openout1 = `3nd_report_Halliburton.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=489.10287pt
+* \textheight=736.64185pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\zhaoh\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen154
+\scratchbox=\box36
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen155
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks43
+)
+\c@lstlisting=\count134
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/zhaoh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (3nd_report
+_Halliburton.toc)
+\tf@toc=\write4
+\openout4 = `3nd_report_Halliburton.toc'.
+
+
+[2]
+<Volve.jpg, id=11, 585.18625pt x 308.15125pt>
+File: Volve.jpg Graphic file (type jpg)
+<use Volve.jpg>
+Package pdftex.def Info: Volve.jpg  used on input line 55.
+(pdftex.def)             Requested size: 289.09215pt x 216.81406pt.
+ [3 <./Volve.jpg>] [4]
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [5]
+<hrs_t_0.png, id=22, 2107.875pt x 1505.625pt>
+File: hrs_t_0.png Graphic file (type png)
+<use hrs_t_0.png>
+Package pdftex.def Info: hrs_t_0.png  used on input line 117.
+(pdftex.def)             Requested size: 397.47704pt x 289.08131pt.
+ [6 <./hrs_t_0.png>]
+Overfull \hbox (27.95654pt too wide) in paragraph at lines 149--162
+ [] 
+ []
+
+[7]
+<adpt_t.png, id=32, 2107.875pt x 1505.625pt>
+File: adpt_t.png Graphic file (type png)
+<use adpt_t.png>
+Package pdftex.def Info: adpt_t.png  used on input line 199.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<o_adpt.png, id=33, 2107.875pt x 1505.625pt>
+File: o_adpt.png Graphic file (type png)
+<use o_adpt.png>
+Package pdftex.def Info: o_adpt.png  used on input line 204.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 198--208
+[]$[]$ $[]$ 
+ []
+
+[8]
+<adp_t_copy.png, id=37, 2107.875pt x 1505.625pt>
+File: adp_t_copy.png Graphic file (type png)
+<use adp_t_copy.png>
+Package pdftex.def Info: adp_t_copy.png  used on input line 217.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<o_adp.png, id=38, 2107.875pt x 1505.625pt>
+File: o_adp.png Graphic file (type png)
+<use o_adp.png>
+Package pdftex.def Info: o_adp.png  used on input line 222.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 216--226
+[]$[]$ $[]$ 
+ []
+
+<adt_t_copy.png, id=39, 2107.875pt x 1505.625pt>
+File: adt_t_copy.png Graphic file (type png)
+<use adt_t_copy.png>
+Package pdftex.def Info: adt_t_copy.png  used on input line 233.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<o_adt.png, id=40, 2107.875pt x 1505.625pt>
+File: o_adt.png Graphic file (type png)
+<use o_adt.png>
+Package pdftex.def Info: o_adt.png  used on input line 238.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 232--242
+[]$[]$ $[]$ 
+ []
+
+[9 <./adpt_t.png> <./o_adpt.png> <./adp_t_copy.png> <./o_adp.png>]
+<aap_t_copy.png, id=49, 2107.875pt x 1505.625pt>
+File: aap_t_copy.png Graphic file (type png)
+<use aap_t_copy.png>
+Package pdftex.def Info: aap_t_copy.png  used on input line 250.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<o_aap.png, id=50, 2107.875pt x 1505.625pt>
+File: o_aap.png Graphic file (type png)
+<use o_aap.png>
+Package pdftex.def Info: o_aap.png  used on input line 255.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 249--259
+[]$[]$ $[]$ 
+ []
+
+Excluding 'comment' comment. [10 <./adt_t_copy.png> <./o_adt.png> <./aap_t_copy
+.png> <./o_aap.png>]
+<WI_missing1.png, id=58, 752.8125pt x 666.23906pt>
+File: WI_missing1.png Graphic file (type png)
+<use WI_missing1.png>
+Package pdftex.def Info: WI_missing1.png  used on input line 288.
+(pdftex.def)             Requested size: 366.83667pt x 199.16164pt.
+<WI_missing2.png, id=59, 752.8125pt x 666.23906pt>
+File: WI_missing2.png Graphic file (type png)
+<use WI_missing2.png>
+Package pdftex.def Info: WI_missing2.png  used on input line 293.
+(pdftex.def)             Requested size: 366.83667pt x 199.16164pt.
+<WI_imputation1.png, id=60, 752.8125pt x 666.23906pt>
+File: WI_imputation1.png Graphic file (type png)
+<use WI_imputation1.png>
+Package pdftex.def Info: WI_imputation1.png  used on input line 307.
+(pdftex.def)             Requested size: 366.83667pt x 199.16164pt.
+<WI_imputation2.png, id=61, 752.8125pt x 666.23906pt>
+File: WI_imputation2.png Graphic file (type png)
+<use WI_imputation2.png>
+Package pdftex.def Info: WI_imputation2.png  used on input line 312.
+(pdftex.def)             Requested size: 366.83667pt x 199.16164pt.
+ [11 <./WI_missing1.png> <./WI_missing2.png>] [12 <./WI_imputation1.png> <./WI_
+imputation2.png>]
+Overfull \hbox (1.73335pt too wide) in paragraph at lines 351--358
+ [] 
+ []
+
+File: adpt_t.png Graphic file (type png)
+<use adpt_t.png>
+Package pdftex.def Info: adpt_t.png  used on input line 365.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<pre_adpt_t.png, id=72, 2107.875pt x 1505.625pt>
+File: pre_adpt_t.png Graphic file (type png)
+<use pre_adpt_t.png>
+Package pdftex.def Info: pre_adpt_t.png  used on input line 370.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 364--374
+[]$[]$ $[]$ 
+ []
+
+[13 <./pre_adpt_t.png>] [14]
+File: adt_t_copy.png Graphic file (type png)
+<use adt_t_copy.png>
+Package pdftex.def Info: adt_t_copy.png  used on input line 435.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<pre_adt_t.png, id=82, 2107.875pt x 1505.625pt>
+File: pre_adt_t.png Graphic file (type png)
+<use pre_adt_t.png>
+Package pdftex.def Info: pre_adt_t.png  used on input line 440.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 434--444
+[]$[]$ $[]$ 
+ []
+
+File: adp_t_copy.png Graphic file (type png)
+<use adp_t_copy.png>
+Package pdftex.def Info: adp_t_copy.png  used on input line 450.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<pre_adp_t.png, id=83, 2107.875pt x 1505.625pt>
+File: pre_adp_t.png Graphic file (type png)
+<use pre_adp_t.png>
+Package pdftex.def Info: pre_adp_t.png  used on input line 455.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 449--459
+[]$[]$ $[]$ 
+ []
+
+[15 <./pre_adt_t.png> <./pre_adp_t.png>]
+File: aap_t_copy.png Graphic file (type png)
+<use aap_t_copy.png>
+Package pdftex.def Info: aap_t_copy.png  used on input line 512.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+<pre_aap_t.png, id=89, 2107.875pt x 1505.625pt>
+File: pre_aap_t.png Graphic file (type png)
+<use pre_aap_t.png>
+Package pdftex.def Info: pre_aap_t.png  used on input line 517.
+(pdftex.def)             Requested size: 244.5394pt x 170.6965pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 511--521
+[]$[]$ $[]$ 
+ []
+
+[16 <./pre_aap_t.png>]
+<corr_all.png, id=94, 2710.125pt x 2710.125pt>
+File: corr_all.png Graphic file (type png)
+<use corr_all.png>
+Package pdftex.def Info: corr_all.png  used on input line 531.
+(pdftex.def)             Requested size: 433.58751pt x 433.58751pt.
+ [17 <./corr_all.png>]
+<pca_all.png, id=99, 1505.625pt x 1204.5pt>
+File: pca_all.png Graphic file (type png)
+<use pca_all.png>
+Package pdftex.def Info: pca_all.png  used on input line 540.
+(pdftex.def)             Requested size: 361.33441pt x 289.0859pt.
+ [18 <./pca_all.png>]
+<OIL_VS_TIME.png, id=104, 803.0pt x 924.45375pt>
+File: OIL_VS_TIME.png Graphic file (type png)
+<use OIL_VS_TIME.png>
+Package pdftex.def Info: OIL_VS_TIME.png  used on input line 581.
+(pdftex.def)             Requested size: 433.6258pt x 433.61874pt.
+ [19] [20 <./OIL_VS_TIME.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 650.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 650.
+
+[21]
+<rnn.png, id=120, 803.0pt x 268.00125pt>
+File: rnn.png Graphic file (type png)
+<use rnn.png>
+Package pdftex.def Info: rnn.png  used on input line 691.
+(pdftex.def)             Requested size: 361.35892pt x 144.53857pt.
+ [22]
+<lstm.png, id=124, 602.25pt x 395.4775pt>
+File: lstm.png Graphic file (type png)
+<use lstm.png>
+Package pdftex.def Info: lstm.png  used on input line 698.
+(pdftex.def)             Requested size: 289.08589pt x 216.8133pt.
+ [23 <./rnn.png> <./lstm.png>] [24] Excluding 'comment' comment.
+Excluding 'comment' comment. [25] (3nd_report_Halliburton.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8732 strings out of 493305
+ 128266 string characters out of 3138874
+ 361233 words of memory out of 3000000
+ 12085 multiletter control sequences out of 15000+200000
+ 14611 words of font info for 56 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,15n,77p,1369b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on 3nd_report_Halliburton.pdf (25 pages, 4182716 bytes).
+PDF statistics:
+ 169 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
